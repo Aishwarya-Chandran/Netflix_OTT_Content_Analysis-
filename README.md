@@ -16,5 +16,5 @@ Through data cleaning, validation, and exploratory data analysis (EDA), this pro
 
 ## Dataset 
 > Datasets are publicly available and not included in this repository.
-```bash
+> 
 **Source:** [Netflix Movies and TV Shows Dataset - Kaggle](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)  
